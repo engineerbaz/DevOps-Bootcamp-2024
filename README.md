@@ -5,8 +5,8 @@
 You’ll gain hands-on experience of Linux, Git, Jenkins, Docker and Kubernetes. 
 
 
-BootCamp details:
-🗓️ Date: 29th September, 2024 12 PM 
-💻 Mode: Online
-🌐 Link: https://baztechknow.com/devops-bootcamp
-📈 Level up your career in just one day!
+BootCamp details: <br>
+🗓️ Date: 29th September, 2024 12 PM <br> 
+💻 Mode: Online <br>
+🌐 Link: [https://baztechknow.com/devops-bootcamp](https://baztechknow.com/devops-bootcamp)  <br><br>
+📈 Level up your career in just one day! <br>
