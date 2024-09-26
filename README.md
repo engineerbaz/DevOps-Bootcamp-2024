@@ -1,8 +1,9 @@
 # DevOps-Bootcamp-2024
 
 Join the [BAZTechKnow](https://baztechknow.com/) **DevOps Bootcamp** on 29th September 2024, 12 PM. This intensive 8-hour bootcamp will give you the essential skills to thrive in the fast-paced DevOps world.
+🌟
 
-🌟 ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6d19c569-bda4-4ddb-91a7-43521cf7e94c)
 
 ### Key Highlights:
 
