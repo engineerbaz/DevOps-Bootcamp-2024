@@ -5,6 +5,8 @@ Join the [BAZTechKnow](https://baztechknow.com/) **DevOps Bootcamp** on 29th Sep
 
 ![image](https://github.com/user-attachments/assets/6d19c569-bda4-4ddb-91a7-43521cf7e94c)
 
+🚀 Transform Your Career with Our DevOps Bootcamp! <br>
+
 ### Key Highlights:
 
 - 80% hands-on labs, 20% insightful theory.
@@ -18,7 +20,17 @@ You’ll gain hands-on experience of _Linux, Git, Jenkins, Docker and Kubernetes
 💻 Mode: Online <br>
 🌐 Link: [https://baztechknow.com/devops-bootcamp](https://baztechknow.com/devops-bootcamp)  <br><br>
 
-🚀 Transform Your Career with Our DevOps Bootcamp! <br>
 
-📅 Mark your calendar and level up your career in just one day!
+### Who Should Attend?
+This Bootcamp is designed to cater a broad range of participants, whether you're:
+- Aspiring DevOps professionals looking to break into the industry.
+- IT professionals aiming to advance their DevOps skills.
+- Software developers & Cloud Engineers seeking to enhance their knowledge of DevOps tools.
+
+
+<br>
+---
+Want to go beyond the Bootcamp? If you're interested in a comprehensive learning journey, consider enrolling in our Complete [DevOps Course](https://baztechknow.com/devops-training), which offers a detailed and structured approach to mastering DevOps tools and methodologies.
+Register today and start your journey toward becoming a DevOps Expert!
+
 
