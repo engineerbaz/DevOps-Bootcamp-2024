@@ -22,5 +22,3 @@ You’ll gain hands-on experience of _Linux, Git, Jenkins, Docker and Kubernetes
 
 📅 Mark your calendar and level up your career in just one day!
 
-## Let's Vote
-
