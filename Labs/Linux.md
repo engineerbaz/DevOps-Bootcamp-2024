@@ -19,13 +19,9 @@ Add in "sudo" group for Ubuntu
 or use
 ``visudo``
 
-# User privilege specification
+#### User privilege specification
 root    ALL=(ALL:ALL) ALL
 john  ALL=(ALL:ALL) ALL
 
-
-
-
-
-## SUDO rights 
+### SUDO rights 
 visudo is a tool for safely updating the /etc/sudoers file, found in most Linux systems (Ubuntu for example). This is the file that is required for allowing regular users to run commands with superuser privileges — using sudo command.
