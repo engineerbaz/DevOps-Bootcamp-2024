@@ -42,7 +42,6 @@
 #### Instructions: ####
 ```
 •	Check the current version of the deployment.
-•	Access the application to confirm it's working as expected.
 ```
 
 ## Task 05
