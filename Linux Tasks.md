@@ -26,6 +26,8 @@
 6.	Change the ownership of production file to tom. 
 7.	Now modify the by-default group of tom to developers only.
 8.	Modify the production file permission, only allow owner & group has full access to it.
+9.	Create a new user smith and try to read production file data. 
+10.	Check if smith is able to read data of production file or not.
 ```
 
 ## Task 03
