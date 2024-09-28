@@ -1,6 +1,7 @@
 # Linux
 
 
+
 ## User Management
  
 
@@ -10,7 +11,7 @@
 ``adduser <name>``
 // for customized options
 
-## Giving Sudo rights
+### Giving Sudo rights
 
 Add in "sudo" group for Ubuntu 
 
