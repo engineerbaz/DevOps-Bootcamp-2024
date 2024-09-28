@@ -28,9 +28,10 @@ This Bootcamp is designed to cater a broad range of participants, whether you're
 - Software developers & Cloud Engineers seeking to enhance their knowledge of DevOps tools.
 
 
+### ----
+Want to go beyond the Bootcamp? <br>
+If you're interested in a comprehensive learning journey, consider enrolling in our Complete [DevOps Course](https://baztechknow.com/devops-training),which offers a detailed and structured approach to mastering DevOps tools and methodologies.
 <br>
----
-Want to go beyond the Bootcamp? If you're interested in a comprehensive learning journey, consider enrolling in our Complete [DevOps Course](https://baztechknow.com/devops-training), which offers a detailed and structured approach to mastering DevOps tools and methodologies.
-Register today and start your journey toward becoming a DevOps Expert!
+Register today and start your journey toward becoming a **DevOps** Expert!
 
 
