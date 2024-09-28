@@ -1,9 +1,12 @@
 # Linux
 
-
+- Basic commands for navigation 
+- File/Directory management
+- Managing processes and system information
+- Text Editing
+- Tools
 
 ## User Management
- 
 
 `useradd -m <name>`
 // for creating home folder
